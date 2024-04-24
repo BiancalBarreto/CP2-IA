@@ -3,10 +3,10 @@
 # Problema 1 - Informações não são claras em relação ao segmento e tamanho da empresa do cliente
 Em relação ao tamanho da empresa, podemos utilizar algumas variaveis já disponiveis para fazer a analise de dados com o objetivo de prever o tamanho da mesma, pequeno negócio ou grande negócio. Listamos as variaveis abaixo:
 
-# Valor Solicitado (valorSolicitado)
+## Valor Solicitado (valorSolicitado)
   O valor solicitado para crédito pode ser um indicador direto do tamanho e das necessidades financeiras da empresa. Empresas maiores podem requerer valores mais expressivos de crédito, enquanto pequenas empresas podem solicitar quantias menores.
 
-# Faturamento Bruto (faturamentoBruto)
+## Faturamento Bruto (faturamentoBruto)
   O faturamento bruto oferece uma visão direta da capacidade de geração de receita da empresa. Empresas com faturamento bruto mais alto geralmente são maiores em termos de operações e escala.
 
 # Ano de fundação (anoFundacao)
